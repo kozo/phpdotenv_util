@@ -1,7 +1,7 @@
 {
     "name": "kozo/phpdotenv_util",
     "description": "phpdotenv utility",
-    "type": "cakephp-plugin",
+    "type": "library",
     "keywords": ["env", "dotenv"],
     "homepage": "https://github.com/kozo",
     "license": "MIT",
